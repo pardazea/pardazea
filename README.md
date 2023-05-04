@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Pardaillan Zea
+#### **Data Analyst**
+![**Data Analyst**]
+![Header](./your-header-image-name.png)
 
-<!--
-**pardazea/pardazea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proactive professional leader. Flexible and cooperative team player that is equally effective working independently. A passionate self-starter with strong experience in services, customer product support and Software Testing Process. Analyst with focus on critical production applications and a very detail-oriented person.
 
-Here are some ideas to get you started:
+Skills: Excel, SQL, PowerBI, Tableu, Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Portfolio 
+- 🌱 I’m currently learning Data Analytics 
+- 🤔 I’m looking for help with PowerBI 
+
+
+
+
